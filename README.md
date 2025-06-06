@@ -43,7 +43,6 @@ PixelCraftor/
 ├── layers.py              # Система слоев
 ├── history.py             # Система истории изменений
 ├── settings.py            # Управление настройками приложения
-├── settings.json          # Файл с настройками
 ├── themes.py              # Управление темами оформления
 ├── localization.py        # Система локализации
 ├── shortcuts.py           # Управление горячими клавишами
@@ -51,7 +50,6 @@ PixelCraftor/
 ├── resolution_widget.py   # Виджет отображения текущего разрешения
 ├── xbm_converter.py       # Конвертер в формат XBM
 ├── PixelCraftor.ico       # Иконка приложения
-├── PROJECT_OVERVIEW.md    # Документация проекта
 └── __pycache__/           # Кэш Python
 ```
 
